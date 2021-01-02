@@ -1,4 +1,4 @@
 # game-ahorcado
 Juego de ahorcado hecho en Lenguaje C
 
-Código realizado en el 2015
+Código creado en el año 2015
